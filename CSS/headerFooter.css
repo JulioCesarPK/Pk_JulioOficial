@@ -19,7 +19,7 @@
 }
 
 .box_logo {
-  min-width: 13%;
+  min-width: 15%;
   height: 100%;
   padding: 5px;
 }
@@ -29,13 +29,13 @@
   color: var(--white);
   font-weight: 600;
   animation: slideRight 1s ease forwards;
-  font: normal 2rem 'Fantasy';
+  font: normal 1.9rem 'Fantasy';
 	margin: 0;
   text-decoration: none;
 }
 
 .logo span {
-  font: normal 2rem 'Fantasy';
+  font: normal 1.9rem 'Fantasy';
 	margin: 0;
   color: #12d11c;
   text-decoration: none;
