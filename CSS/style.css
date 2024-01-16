@@ -289,7 +289,7 @@ section {
 }
 
 .icon-x {
-  width: 13px;
+  min-width: 13px;
   height: 13px;
   background-color: none;
   color: rgb(255, 255, 255);
